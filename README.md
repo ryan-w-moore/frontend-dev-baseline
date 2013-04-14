@@ -3,7 +3,7 @@ frontend-dev-baseline
 
 A Baseline for Front-End Developers
 
-Apr 12th, 2012 | Comments
+Apr 12th, 2012 
 
 I wrote a README the other day for a project that I’m hoping other developers will look at and learn from, and as I was writing it, I realized that it was the sort of thing that might have intimidated the hell out of me a couple of years ago, what with its casual mentions of Node, npm, Homebrew, git, tests, and development and production builds.
 
